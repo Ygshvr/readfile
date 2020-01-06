@@ -1,0 +1,26 @@
+{
+  "name": "readfile",
+  "version": "1.0.0",
+  "description": "Process big file line by line.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ygshvr/readfile.git"
+  },
+  "keywords": [
+    "readfile",
+    "large",
+    "file",
+    "file",
+    "processing"
+  ],
+  "author": "Yogeshwar Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ygshvr/readfile/issues"
+  },
+  "homepage": "https://github.com/Ygshvr/readfile#readme"
+}
